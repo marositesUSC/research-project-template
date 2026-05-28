@@ -1,3 +1,18 @@
+# Copy this as a template
+For new projects go to 
+```text
+GitHub -> https://github.com/marositesUSC/research-project-template -> Use this template -> Create a new repository
+```
+
+Then clone the new repo to the right local folder on your machine. 
+
+```powershell
+cd C:\Users\ben\Projects\research ### your directory
+git clone https://github.com/YOUR-USERNAME/new-project-name.git ### your .git dir
+```
+*delete text above this from your clone.*
+
+---- 
 # Project Title
 
 Briefly describe the purpose of this project. Include the research question, class assignment, analysis goal, or decision this project supports.
