@@ -36,7 +36,7 @@ The main objectives of this project are:
 3. [Objective 3]
 
 ## Repository Structure
-
+<!-- use the `tree -f` command-->
 ```text
 .
 ├── README.md
